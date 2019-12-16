@@ -1,0 +1,19 @@
+{
+  "name": "github-profile-generator",
+  "version": "1.0.0",
+  "description": "github-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenG1/GitHub-Profile-Generator.git"
+  },
+  "author": "Jennifer Genes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenG1/GitHub-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/JenG1/GitHub-Profile-Generator#readme"
+}
