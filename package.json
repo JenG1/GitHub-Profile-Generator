@@ -14,7 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
-    "inquirer": "^6.5.0"
+    "inquirer": "^6.5.0",
+    "node-input-validator": "^4.1.0"
   },
   "bugs": {
     "url": "https://github.com/JenG1/GitHub-Profile-Generator/issues"
